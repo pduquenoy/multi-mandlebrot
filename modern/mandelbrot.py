@@ -1,6 +1,6 @@
 import time
 
-pixels = " .:~÷+<*/([{@%&$"
+pixels = "0123456789ABCDEF"
 
 def mand():
     start = time.time_ns()
